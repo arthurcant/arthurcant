@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Eu sou Arthur, trabalho na ConsuTI como Estagiário em desenvolvimento.
+Eu sou Arthur, sou estudande de desenvolvimento de software.
 
 
 
