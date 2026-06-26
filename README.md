@@ -4,7 +4,7 @@ Eu sou Arthur, sou estudande de desenvolvimento de software.
 
 
 
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-silva-8a841b172/)]([https://www.linkedin.com/in/arthur-silva-8a841b172/](https://www.linkedin.com/in/arthur-cavalcante-gomes-da-silva/))
+[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-silva-8a841b172/)](https://www.linkedin.com/in/arthur-cavalcante-gomes-da-silva/)
 
 ## ⚡ Technologies
 
