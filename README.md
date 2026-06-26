@@ -17,7 +17,7 @@ Esse são alguns das tecnologias e ferramentas que eu trabalho ou eu tenho conhe
 ![C#](https://img.shields.io/badge/-C%23-green)
 ![.NET](https://img.shields.io/badge/-.NET-green)
 ![Asp.net MVC](https://img.shields.io/badge/-Asp.net%20MVC-green)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)]
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)
 ![Jquery](https://img.shields.io/badge/-Jquery-gray)
 ![SQL](https://img.shields.io/badge/-SQL-blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
