@@ -4,7 +4,7 @@ Eu sou Arthur, sou estudande de desenvolvimento de software.
 
 
 
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-silva-8a841b172/)](https://www.linkedin.com/in/arthur-silva-8a841b172/)
+[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-silva-8a841b172/)]([https://www.linkedin.com/in/arthur-silva-8a841b172/](https://www.linkedin.com/in/arthur-cavalcante-gomes-da-silva/))
 
 ## ⚡ Technologies
 
@@ -17,6 +17,7 @@ Esse são alguns das tecnologias e ferramentas que eu trabalho ou eu tenho conhe
 ![C#](https://img.shields.io/badge/-C%23-green)
 ![.NET](https://img.shields.io/badge/-.NET-green)
 ![Asp.net MVC](https://img.shields.io/badge/-Asp.net%20MVC-green)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)]
 ![Jquery](https://img.shields.io/badge/-Jquery-gray)
 ![SQL](https://img.shields.io/badge/-SQL-blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -27,6 +28,7 @@ Esse são alguns das tecnologias e ferramentas que eu trabalho ou eu tenho conhe
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)]
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]
 
